@@ -9,7 +9,7 @@ et some idea about what is going under the hood in comment state management.
 
 
 ## using stream controller and inherit widget 
-In this way you create a stream controller and share this stream controller cross all incester widget with 
+In this way you create a stream controller and share this stream controller cross all ancestor widget with 
 inherited widget
 
 ```
